@@ -1,0 +1,16 @@
+c:\users\main\documents\visual studio 2015\Projects\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.exe
+c:\users\main\documents\visual studio 2015\Projects\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.pdb
+c:\users\main\documents\visual studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csprojResolveAssemblyReference.cache
+c:\users\main\documents\visual studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail_Gönderme.Form1.resources
+c:\users\main\documents\visual studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail_Gönderme.Properties.Resources.resources
+c:\users\main\documents\visual studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.exe
+c:\users\main\documents\visual studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.pdb
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.exe
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.pdb
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2015\Projects\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.exe
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2015\Projects\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.pdb
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csprojResolveAssemblyReference.cache
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail_Gönderme.Form1.resources
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail_Gönderme.Properties.Resources.resources
+E:\00_Documents\00_Programming\01_Editor\Visual Studio 2015\Projects\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csproj.GenerateResource.Cache
